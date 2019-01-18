@@ -1,6 +1,3 @@
-require "hotel_jobs/version"
+#file created is an equivalent to environment.rb
 
-module HotelJobs
-  class Error < StandardError; end
-  # Your code goes here...
-end
+require "hotel_jobs/version"
