@@ -8,5 +8,5 @@ require_relative '../lib/hotel_jobs'
 
 #basic call to cli class to check if setup correct
 
-x = MovieReview::CLI.new
+x = HotelJobs::CLI.new
 x.start

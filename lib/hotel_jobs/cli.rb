@@ -6,7 +6,8 @@
 class HotelJobs::CLI
 
   #code to see if all is setup correctly
+  #called in bin findjobs to initially check
   def start
     puts "Hello"
   end
-end 
+end
