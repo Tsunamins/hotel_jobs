@@ -4,3 +4,9 @@
 #other files have .rb which specifes a ruby file so this first line tells working in ruby
 
 require_relative '../lib/hotel_jobs'
+
+
+#basic call to cli class to check if setup correct
+
+x = MovieReview::CLI.new
+x.start
