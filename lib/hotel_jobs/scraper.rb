@@ -1,0 +1,3 @@
+class HotelJobs::Scraper
+
+end

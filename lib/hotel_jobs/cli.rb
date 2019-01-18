@@ -9,5 +9,8 @@ class HotelJobs::CLI
   #called in bin findjobs to initially check
   def start
     puts "Hello"
+
+    #example of calling scraper method within here:
+    #HotelJobs::Scraper.scrape
   end
 end
